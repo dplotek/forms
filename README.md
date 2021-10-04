@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Forms built with React.js, Styled Components and React Hook Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+While I was learning vanilla js, I found a Facebook group that created a weekly challenge of recreating the page in HTML, CSS and vanilla js. I liked this project so much that I decided to recreate it in React by adding a few features:
+
+* Registration - you can create your account, owe to React Hook Form registration will be successful only when the validator checks the correctness of all fields of the form. The data is stored in the global state using the Context Provider, due to the GDPR, the website does not store your data and after refreshing the page, your data disappears.
+* E-mail message - due to the GDPR, the functionality of this component is limited to custom validation and clearing all fields after sending the message correctly
+* Logging in - after registering your account, you can log in to it and check your data.
+* Password reminder - if you forget your password, you can check it by entering your e-mail address.
+* Newsletter - it will not send you spam, it will not send you anything, but it may disappear.
+
+Link to task: /* Soon, Facebook crashed */
 
 ## Available Scripts
 
