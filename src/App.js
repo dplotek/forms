@@ -19,6 +19,7 @@ const Wrapper = styled.div`
 	display: flex;
 	@media (max-width: 933px) {
 		flex-direction: column;
+		align-items: center;
 	}
 `;
 
