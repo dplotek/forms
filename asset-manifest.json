@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/forms/static/css/main.23fc4378.chunk.css",
+    "main.js": "/forms/static/js/main.81c54747.chunk.js",
+    "main.js.map": "/forms/static/js/main.81c54747.chunk.js.map",
+    "runtime-main.js": "/forms/static/js/runtime-main.959734da.js",
+    "runtime-main.js.map": "/forms/static/js/runtime-main.959734da.js.map",
+    "static/js/2.002a6bfc.chunk.js": "/forms/static/js/2.002a6bfc.chunk.js",
+    "static/js/2.002a6bfc.chunk.js.map": "/forms/static/js/2.002a6bfc.chunk.js.map",
+    "static/js/3.df020dac.chunk.js": "/forms/static/js/3.df020dac.chunk.js",
+    "static/js/3.df020dac.chunk.js.map": "/forms/static/js/3.df020dac.chunk.js.map",
+    "index.html": "/forms/index.html",
+    "static/css/main.23fc4378.chunk.css.map": "/forms/static/css/main.23fc4378.chunk.css.map",
+    "static/js/2.002a6bfc.chunk.js.LICENSE.txt": "/forms/static/js/2.002a6bfc.chunk.js.LICENSE.txt",
+    "static/media/Masteralb.com LOGO.8699c18e.svg": "/forms/static/media/Masteralb.com LOGO.8699c18e.svg",
+    "static/media/Masteralb.com TOP LOGO.487e4d49.svg": "/forms/static/media/Masteralb.com TOP LOGO.487e4d49.svg",
+    "static/media/index.css": "/forms/static/media/background.b3c00b2f.png",
+    "static/media/check.e18fa25d.svg": "/forms/static/media/check.e18fa25d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959734da.js",
+    "static/js/2.002a6bfc.chunk.js",
+    "static/css/main.23fc4378.chunk.css",
+    "static/js/main.81c54747.chunk.js"
+  ]
+}

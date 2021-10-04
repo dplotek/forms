@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACC,QAAS,CACT,SAAU,CACV,sCAAwC,CACxC,qEAA6C,CAC7C,qBACD","file":"main.23fc4378.chunk.css","sourcesContent":["body {\n\tmargin: 0;\n\tpadding: 0;\n\tfont-family: \"Titillium Web\", sans-serif;\n\tbackground: url(img/background.png) no-repeat;\n\tbackground-size: cover;\n}\n"]}
